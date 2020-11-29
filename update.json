@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1606519097,
+      "datetime": 1606612260,
       "filename": "lineage_marlin-ota-eng.gWOLF3.zip",
-      "id": "1e1e02505f0b65035ea5ac3677598303",
+      "id": "265856bfb01b1edd711682b26bccfe0f",
       "romtype": "unofficial",
-      "size": 600187042,
-      "url": "https://github.com/openinternet-cc/ota/releases/download/0.1/lineage_marlin-ota-eng.gWOLF3.zip",
-      "version": "17.2"
+      "size": 567582128,
+      "url": "https://github.com/openinternet-cc/ota/releases/download/0.2/lineage_marlin-ota-eng.gWOLF3.zip",
+      "version": "0.2"
     }
   ]
 }
